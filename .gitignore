@@ -1,0 +1,24 @@
+# Ignore system files and folders
+.android/
+.bash_history
+.cache/
+.dbus-keyrings/
+.dotnet/
+.gitconfig
+.nuget/
+.templateengine/
+.thumbnails/
+.vscode/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Muse Hub/
+Music/
+
+# Ignore other specific system files
+NTUSER.DAT
+NTUSER.DAT{*}.TM*
+ntuser.dat.LOG*
