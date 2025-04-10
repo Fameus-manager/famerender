@@ -22,3 +22,45 @@ Music/
 NTUSER.DAT
 NTUSER.DAT{*}.TM*
 ntuser.dat.LOG*
+
+# Node.js dependencies
+node_modules/
+
+# Python-specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# IDE or text editor files (for VSCode, JetBrains, etc.)
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# JetBrains project files
+*.iml
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Build artifacts
+/dist
+/build
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# Ignore project-related files
+# package-lock.json
+# package.json
+# index.js
